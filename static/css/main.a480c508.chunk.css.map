@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/Product/Detail.css"],"names":[],"mappings":"AAAA,iBACI,YAAa,CACb,aACJ","file":"main.a480c508.chunk.css","sourcesContent":[".card-horizontal {\n    display: flex;\n    flex: 1 1 auto;\n}"]}
